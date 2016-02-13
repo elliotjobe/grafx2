@@ -1,0 +1,7 @@
+  * [Users](UserManual.md)
+    * [Differences with DOS version](DifferencesWithDOSVersion.md)
+    * [gallery](gallery.md)
+  * [Devs](DevelopperDocumentation.md)
+    * [How to build Grafx2](Compiling.md)
+    * [Doxygen reference](http://grafx2.googlecode.com/svn/doxydoc/html/index.html)
+    * [How to write platform independant code](PlatformDependantCode.md)
